@@ -1,10 +1,11 @@
-### Rahman Rezaee(Software Engineer, Team Lead, Mobile Developer)
+### Rahman Rezaee(Senior Software Engineer, Team Lead, Mobile Developer)
 
 - 🔭 I’m currently working on Flutter Projects
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on flutter packages
+- 🌱 I’m currently learning Python, More about challenge of ui
+- 👯 I’m looking to collaborate on flutter packages and Android Jetpack Compose
 - 🤔 I’m looking for help with junior developer
-- 📫 How to reach me: Rahmanrezaie60@gmail.com
+- 🤓 Why still didnt follow me?? 
+
 
 
 ## &#x1f4c8; GitHub Stats 
