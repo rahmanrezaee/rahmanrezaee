@@ -1,8 +1,8 @@
 ### Rahman Rezaee(Senior Software Engineer, Team Lead, Mobile Developer)
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I’m currently learning Python, More about challenge of ui
-- 👯 I’m looking to collaborate on flutter packages and Android Jetpack Compose
+- 🔭 I’m currently working on Flutter and Android Projects.
+- 🌱 I’m currently learning Python, More about challenge of ui of Android.
+- 👯 I’m looking to collaborate on flutter packages and Android Jetpack Compose Libraries.
 - 🤔 I’m looking for help with junior developer
 - 🤓 Why still didnt follow me?? 
 
