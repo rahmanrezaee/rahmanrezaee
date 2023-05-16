@@ -7,14 +7,9 @@
 - 🤓 Why still didnt follow me?? 
 
 Check My Personal Website 😁
-<a href="https://rahmanrezaee.me">Website</a>
-
-
-## &#x1f4c8; GitHub Stats 
-
-<a href="https://github.com/rahmanrezaee/rahmanrezaee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmanrezaee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rahman's GitHub Stats" />
-</a>
+<a href="https://rahmanrezaee.me">Rahman Rezaee</a>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahmanrezaee)
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/rahmanrezaee/)
 
 
 <br><br>
