@@ -12,7 +12,6 @@ How to reach out me!? 😁
 Socail Media 🤓
 <br><br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahmanrezaee)
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/rahmanrezaee/)
-<br><br>
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/rahmanrezaee/)\
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rahmanrezaee&label=Profile%20views&color=2bbc8a&style=flat" alt="Rahman Rezaee"/></p>
 
