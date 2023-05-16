@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help with junior developer
 - 🤓 Why still didnt follow me?? 
 
-Check My Personal Website 😁
-<a href="https://rahmanrezaee.me">Rahman Rezaee</a><br><br>
+How to reach out me!? 😁<br><br>
+<a href="https://rahmanrezaee.me">Rahman Rezaee</a>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahmanrezaee)
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/rahmanrezaee/)
 
