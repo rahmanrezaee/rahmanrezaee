@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter and Android Projects.
 - 🌱 I’m currently learning Flutter and Android, More about the challenges of UI in Android Jetpack Compose.
 - 👯 I’m looking to collaborate on flutter packages and Android Jetpack Compose Libraries.
-- 🤔 I’m looking for helping with the junior developer
+- 🤔 I’m looking to help with the junior developer
 - 🤓 Why still didn't follow me?? 
 
 How to reach out to me!? 😁
